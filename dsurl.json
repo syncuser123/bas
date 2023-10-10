@@ -1,0 +1,14 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "url": "https://services.odata.org/V4/Northwind/Northwind.svc/Orders",
+  "email": "johndoe@example.com",
+  "isSubscribed": true,
+  "address": {
+    "street": "123 Main Street",
+    "city": "Anytown",
+    "state": "CA",
+    "postalCode": "12345"
+  },
+  "hobbies": ["reading", "hiking", "cooking"]
+}

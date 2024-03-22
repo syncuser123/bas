@@ -1,9 +1,9 @@
 {
      "ServerName":"localhost",
-     "Database":"sample_2",
-     "UserName":"root",
-     "Password":"Syncfusion@123",
-     "Port":3306,
+     "Database":"postgres",
+     "UserName":"postgres",
+     "Password":"sa@1234",
+     "Port":5432,
      "SslMode":"",
      "TrustServerCertificate":"",
      "AdvancedSettings":"",
@@ -13,5 +13,5 @@
      "SshUsername":null,
      "SshPassword":null,
      "IsSshConnection":false,
-     "Schema":"sample_2"
+     "Schema":"public_2"
 }

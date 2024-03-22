@@ -1,7 +1,4 @@
 {
- "Status":true,
- "Message":"Success",
- "Data":{
    "ServerName":"localhost",
    "Database":"postgres",
    "UserName":"postgres",
@@ -18,4 +15,3 @@
     "IsSshConnection":false,
     "Schema":"public_2"
  }
-}

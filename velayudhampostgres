@@ -1,0 +1,17 @@
+{
+     "ServerName":"localhost",
+     "Database":"sample_2",
+     "UserName":"root",
+     "Password":"Syncfusion@123",
+     "Port":3306,
+     "SslMode":"",
+     "TrustServerCertificate":"",
+     "AdvancedSettings":"",
+     "CommandTimeout":300,
+     "SshServerName":null,
+     "SshPort":null,
+     "SshUsername":null,
+     "SshPassword":null,
+     "IsSshConnection":false,
+     "Schema":"sample_2"
+}

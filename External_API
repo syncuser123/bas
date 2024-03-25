@@ -1,21 +1,21 @@
 {
-  "Status":true,
-  "Message":"Success",
-  "Data":{
-    "ServerName":"localhost",
-    "Database":"postgres",
-    "UserName":"postgres",
-     "Password":"sa@1234",
+"Status":true,
+"Message":"Success",
+"Data":{
+ "ServerName":"localhost",
+     "Database":"latestversion_7.5.13",
+     "UserName":"postgres",
+     "Password":"FURIous@97",
      "Port":5432,
      "SslMode":"",
-    "TrustServerCertificate":"",
-    "AdvancedSettings":"",
+     "TrustServerCertificate":"",
+     "AdvancedSettings":"",
      "CommandTimeout":300,
      "SshServerName":null,
      "SshPort":null,
      "SshUsername":null,
      "SshPassword":null,
      "IsSshConnection":false,
-     "Schema":"public_2"
-  }
+     "Schema":"public2"
+}
 }

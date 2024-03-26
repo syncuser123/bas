@@ -5,7 +5,7 @@
  "ServerName":"localhost",
      "Database":"latestversion_7.5.13",
      "UserName":"postgres",
-     "Password":"FURIous@97",
+     "Password":"FURIous@9",
      "Port":5432,
      "SslMode":"",
      "TrustServerCertificate":"",

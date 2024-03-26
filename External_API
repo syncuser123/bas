@@ -2,20 +2,12 @@
 "Status":true,
 "Message":"Success",
 "Data":{
- "ServerName":"localhost",
-     "Database":"latestversion_7.5.13",
-     "UserName":"postgres",
-     "Password":"FURIous@9",
-     "Port":5432,
-     "SslMode":"",
-     "TrustServerCertificate":"",
-     "AdvancedSettings":"",
-     "CommandTimeout":300,
-     "SshServerName":null,
-     "SshPort":null,
-     "SshUsername":null,
-     "SshPassword":null,
-     "IsSshConnection":false,
-     "Schema":"public2"
+      "DataSource": "DynamicString",
+      "InitialCatalog": "",
+      "UserName": "sa",
+      "Password": "Paari@09",
+      "IntegratedSecurity": "",
+      "AdvancedSettings": "",
+      "CommandTimeout": "300"
 }
 }

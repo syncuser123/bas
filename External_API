@@ -1,13 +1,22 @@
 {
 "Status":true,
 "Message":"Success",
-"Data":{
-      "DataSource": "DynamicString",
-      "InitialCatalog": "",
-      "UserName": "sa",
-      "Password": "Paari@09",
-      "IntegratedSecurity": "",
-      "AdvancedSettings": "",
-      "CommandTimeout": "300"
+"Data":
+{
+     "ServerName":"localhost",
+     "Database":"Testing",
+     "UserName":"postgres",
+     "Password":"sa@1234",
+     "Port":5432,
+     "SslMode":"",
+     "TrustServerCertificate":"",
+     "AdvancedSettings":"",
+     "CommandTimeout":300,
+     "SshServerName":null,
+     "SshPort":null,
+     "SshUsername":null,
+     "SshPassword":null,
+     "IsSshConnection":false,
+     "Schema":"Test"
 }
 }

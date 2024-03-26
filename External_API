@@ -1,22 +1,13 @@
-{
-"Status":true,
-"Message":"Success",
-"Data":
-{
-     "ServerName":"localhost",
-     "Database":"DynamicString",
-     "UserName":"postgres",
-     "Password":"sa@1234",
-     "Port":5432,
-     "SslMode":"",
-     "TrustServerCertificate":"",
-     "AdvancedSettings":"",
-     "CommandTimeout":300,
-     "SshServerName":null,
-     "SshPort":null,
-     "SshUsername":null,
-     "SshPassword":null,
-     "IsSshConnection":false,
-     "Schema":"Test2"
+{      
+Status: true,      
+Message: "Success",      
+Data: {              
+    DataSource: "SYNCLAPN-31044", 
+    InitialCatalog: "DCS_DB2",    
+    Username:"sa",           
+    Password: "sa@1234",        
+    IntegratedSecurity: "false",     
+    AdvancedSettings: "",
+    CommandTimeout: "300"
 }
 }

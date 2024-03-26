@@ -4,7 +4,7 @@
 "Data":
 {
      "ServerName":"localhost",
-     "Database":"Testing",
+     "Database":"Test",
      "UserName":"postgres",
      "Password":"sa@1234",
      "Port":5432,

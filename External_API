@@ -4,7 +4,7 @@
 "Data":
 {
      "ServerName":"localhost",
-     "Database":"Test",
+     "Database":"DynamicString",
      "UserName":"postgres",
      "Password":"sa@1234",
      "Port":5432,
@@ -17,6 +17,6 @@
      "SshUsername":null,
      "SshPassword":null,
      "IsSshConnection":false,
-     "Schema":"Test"
+     "Schema":"Test2"
 }
 }

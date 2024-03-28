@@ -1,13 +1,20 @@
-{      
-Status: true,      
-Message: "Success",      
-Data: {              
-    DataSource: "SYNCLAPN-31044", 
-    InitialCatalog: "DCS_DB2",    
-    Username:"sa",           
-    Password: "sa@1234",        
-    IntegratedSecurity: "false",     
-    AdvancedSettings: "",
-    CommandTimeout: "300"
-}
-}
+{
+ "Status":true,
+ "Message":"Success",
+ "Data":{
+   "ServerName":"localhost",
+   "Database":"Large",
+   "UserName":"postgres",
+    "Password":"pg@1234",
+    "Port":5432,
+    "SslMode":"",
+   "TrustServerCertificate":"",
+   "AdvancedSettings":"",
+    "CommandTimeout":300,
+    "SshServerName":null,
+    "SshPort":null,
+    "SshUsername":null,
+    "SshPassword":null,
+    "IsSshConnection":false,
+    "Schema":"public_2"
+ }
